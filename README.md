@@ -14,4 +14,4 @@ let tab = document.querySelectorAll('.info-header-tab'),
 
 '.info-header-tab' is the class of our links by which we will switch the slider,
 '.info-header' - parent element of links,
-'.info-tabcontent' is the content class that will be displayed on
+'.info-tabcontent' is the content class that will be displayed on.
